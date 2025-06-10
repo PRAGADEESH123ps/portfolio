@@ -27,7 +27,7 @@ const projects = [
       "Weather app featuring live temperature, humidity, and wind data with user-friendly design.",
     image: "/projects/w.png",
     tags: ["React", "openweather", "TailwindCss"],
-    demoUrl: "#",
+    demoUrl: "https://opeanweather.vercel.app/",
     githubUrl: "https://github.com/PRAGADEESH123ps/opeanweather",
   },
 ];
