@@ -3,32 +3,32 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    title: "Ticket Booking",
+    description: "A bus ticket booking app with seat selection and real-time availability, built using Django backend and React frontend.",
+    image: "/projects/bus.png",
+    tags: ["React", "TailwindCSS", "Django"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/PRAGADEESH123ps/travel-app",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "Number Game",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "/projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+      "A React app where users guess a random number with hints and limited tries for fun and challenge.",
+    image: "/projects/n.png",
+    tags: ["React", "Tailwindcss", "UI"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/PRAGADEESH123ps/number-game",
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Weather",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
-    image: "/projects/project3.png",
-    tags: ["React", "Node.js", "Stripe"],
+      "Weather app featuring live temperature, humidity, and wind data with user-friendly design.",
+    image: "/projects/w.png",
+    tags: ["React", "openweather", "TailwindCss"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/PRAGADEESH123ps/opeanweather",
   },
 ];
 
@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/machadop1407"
+            href="https://github.com/PRAGADEESH123ps"
           >
             Check My Github <ArrowRight size={16} />
           </a>

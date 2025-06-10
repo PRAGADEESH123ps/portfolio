@@ -12,20 +12,19 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+               Web Developer & Digital Marketer
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I'm a full-stack developer who bridges design and functionality. 
+              With a strong foundation in both front-end and back-end technologies, I build intuitive user experiences and robust systems. 
+              I believe in writing clean, scalable code and creating digital solutions that are not just functional, but delightful to use.
             </p>
 
             <p className="text-muted-foreground">
-              I'm passionate about creating elegant solutions to complex
-              problems, and I'm constantly learning new technologies and
-              techniques to stay at the forefront of the ever-evolving web
-              landscape.
+              I’m a digital marketer focused on performance and results. 
+              I manage Meta Ads, Google Ads, and landing page optimization to generate leads and increase ROI. 
+              I enjoy analyzing data, A/B testing creatives, and refining campaigns for better outcomes.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
@@ -79,10 +78,9 @@ export const AboutSection = () => {
                 </div>
 
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Project Management</h4>
+                  <h4 className="font-semibold text-lg">Digital marketing</h4>
                   <p className="text-muted-foreground">
-                    Leading projects from conception to completion with agile
-                    methodologies.
+                    Leading end-to-end digital marketing initiatives with a focus on agile execution, data-driven decisions, and impactful outcomes.
                   </p>
                 </div>
               </div>
